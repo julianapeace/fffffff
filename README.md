@@ -31,7 +31,7 @@ So to drown those voices, use this handy dandy command line tool!
   - `how_much_money` = how rich ser. Integer only. In U.S. dollars only. (e.g. 9000)
 
 
-https://user-images.githubusercontent.com/26395088/163730047-e3bb5103-bfb0-4483-a377-971dddd3191d.mov
+https://user-images.githubusercontent.com/26395088/163730325-eb671590-506e-489c-bacc-c66f6d57c28d.mov
 
 
 ### Created on a bored Saturday by [Juliana](https://www.julianamei.com) 🤬🥲
