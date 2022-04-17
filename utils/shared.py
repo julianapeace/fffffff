@@ -20,7 +20,6 @@ def get_rates(urls, api_key):
     for i in urls:
         response = requests.get(i, headers=headers)
         json = response.json()
-        print(json)
         results.append(json['rate'])
     return results
 
