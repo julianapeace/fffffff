@@ -31,13 +31,13 @@ def cli(token, wen_buy, wen_sell, how_much_money):
     rates = get_rates(urls, coinapi_api_key)
 
     num_of_tokens = int(how_much_money) / int(rates[0])
-    print('you could have bought ', num_of_tokens, " ", token.upper(), " with the $", how_much_money, "on ", wen_buy)
-
-    net = (num_of_tokens*rates[1]) - int(how_much_money)
-
+    
     for i in range(8):
         print(".")
 
+    print('you could have bought ', num_of_tokens, " ", token.upper(), " with the $", how_much_money, "on ", wen_buy)
+
+    net = (num_of_tokens*rates[1]) - int(how_much_money)
 
     if (net > 0):
         print('You could have made ', net, "if you sold", wen_sell)
