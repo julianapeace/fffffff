@@ -266,7 +266,7 @@ def rage():
     a = "             (╯°□°）╯︵ ┻━┻"
     b = "             (ﾉ °益°)ﾉ 彡 ┻━┻"
     c = "             (┛ò__ó)┛彡┻━┻"
-    options = [ a, b, c, ffff_1(), ffff_2(), scream(), sadcat(), cry()]
+    options = [ a, b, c, ffff_1(), ffff_2(), cry()]
     rand = random.randint(0, len(options) - 1)
     print (options[rand])
 
