@@ -7,6 +7,8 @@ I do!
 
 Sometimes I lie awake at night and go "ffffffffuuuuuu"
 
+![ffffffffuuuuuu](Rage.jpeg)
+
 But I'll never wonder again.
 
 So to drown those voices, use this handy dandy command line tool!
